@@ -1,0 +1,12 @@
+Shyam 
+111111
+ammp.eio.gz
+512 
+DefaultL2MissRate 1.2345 
+BaselineIPC 1.2345 
+slowL1IPC 1.2345 
+slowL2IPC 1.2345 
+RandomMissRate 1.2345 
+FIFOMissRate 1.2345 
+InOrderIPC 1.2345 
+DiffWidthIPC 1.2345 
